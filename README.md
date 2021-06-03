@@ -1,0 +1,1 @@
+# adopt_openjdk_docker-AZ
