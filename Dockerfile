@@ -1,4 +1,4 @@
-FROM        oopenjdk:16-slim
+FROM        openjdk:16-slim
 LABEL       author="YuyuLuna" maintainer="admin@mail.yuyucloud.com"
 
 
