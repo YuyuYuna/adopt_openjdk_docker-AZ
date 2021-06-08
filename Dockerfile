@@ -1,4 +1,4 @@
-FROM        adoptopenjdk:15-jdk-hotspot-focal
+FROM        openjdk-16:slim
 LABEL       author="YuyuLuna" maintainer="admin@mail.yuyucloud.com"
 
 
